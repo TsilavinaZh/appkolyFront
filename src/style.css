@@ -1,0 +1,19 @@
+textarea,
+input {
+  width: 80%;
+  border: none;
+  outline: none;
+  /* Optionnel, pour enlever la bordure de focus */
+}
+
+form h2 {
+  color: #1b3980;
+}
+
+form h3 {
+  color:#06b56b ;
+}
+
+form input[type="text"] {
+  color: black;
+}
